@@ -10,3 +10,5 @@ En camara parece alto pero en verdad no es tan alto.
 Hoy es el CEO de Platzi.
 
 Jeisson se convierte en un programador en platzi
+
+COmienza con el curso de Git
